@@ -47,7 +47,7 @@ This project is a Python tool to download subtitles from [wizdom.xyz](https://wi
 Run the script to start the subtitle downloader. The script expects three arguments: the output directory, the name of the TV show, and the name of the movie.
 
 ```sh
-python main.py <output_directory> <tv_show_name> <movie_name>
+python main.py <output_directory> <tv_show_name> <season_number>
 ```
 
 Follow the on-screen instructions to select and download the desired subtitles.
